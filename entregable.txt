@@ -1,0 +1,8 @@
+1. ¿De dónde sale la etiqueta Navigation?
+R: Sale del archivo .Navigation
+
+2. Cómo se reciben estos los parámetros de Navigation {srcImg,alt}:
+R: Porque uso esos componentes en las línas de abajo. 
+
+3. ¿Dónde se importan los archivos css, las imagenes y cómo es que se importa un componente?
+R: Se obtienen de ./archivo.css, ./logo.svg y de ./Archivo. 
